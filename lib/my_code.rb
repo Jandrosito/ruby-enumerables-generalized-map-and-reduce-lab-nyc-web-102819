@@ -3,5 +3,5 @@ def map(array)
 end
 
 def map_origin(array)
-  array.map {|n| n}
+  array.map {|n|n}
 end
