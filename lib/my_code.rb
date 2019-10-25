@@ -3,5 +3,5 @@ def map(array)
 end
 
 def map(array)
-  array.map {}
+  array.map {|}
 end
